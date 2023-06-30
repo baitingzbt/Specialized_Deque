@@ -1,11 +1,3 @@
-//namespace pic10c { template<typename T> class dedue; }
-//
-//  specialize_deque.h
-//  Pic10C_HW8
-//
-//  Created by Baiting Zhu on 11/14/21.
-//
-
 #ifndef specialize_deque_h
 #define specialize_deque_h
 
